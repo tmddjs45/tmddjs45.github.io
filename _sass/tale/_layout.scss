@@ -83,10 +83,53 @@ footer,
 footer {
   font-family: $serif-secondary;
   padding: 2rem 0;
-  text-align: center;
+  padding-top: 15px;
+
 
   span {
     color: $default-color;
     font-size: .8rem;
+  }
+.footer_wrap{
+
+  position: relative;
+
+  .information{
+    display: inline-block;
+
+    .myname{
+      font-size: 23px;
+      margin-bottom: 5px;
+    }
+
+    .email{
+      color:$default-tint;
+    }
+
+  }
+}
+  .accounts{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    a{
+      svg{
+        fill:$default-tint;
+        width: 19px;
+      }
+    }
+  }
+
+  .copyright{
+    margin-top: 70px;
+    float: right;
+
+    @media(max-width: 550px){
+      float: none;
+      margin-top: 0px;
+    }
+    span{
+      font-size: 13px;
+    }
+
   }
 }
