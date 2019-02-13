@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Thousand Blog
+### 천 승 언 (28)
 
 
-[jekyll-organization]: https://github.com/jekyll
+현재 개발자를 꿈 꾸며,프로그래밍을 공부하고있는 취업준비생이다.
+
+
+이 블로그는 프로그래밍 공부를 위해 만들게 되었지만 어떻게 운영될지는 아직 잘 모르겠다.
+나의 일상을 올릴 블로그가 될 수도, 내가 공부했던 프로젝트에 대해 올리는 블로그가 될 수도,
+여행 블로그, 운동 블로그가 될 수도 있겠다.
+
+프로그래밍 공부는 19년 1월 중순부터 시작한 새내기개발자이다. 아직 채워 나가야 할게 많다.
+프로그래밍 분야가 워낙 광범위해서 채워 나가야한다는 표현이 맞는지 모르겠다.
+
+>*"타인보다 우수하다고 해서 고귀한 것이 아니다. 과거의 자신보다 우수한 것이야 말로 진정 고귀한 것이다."<br><br>- 헤밍웨이*
+
+
+
+
+
+<br>
+내가 좋아하는 표현이다. **오늘**이라는 시간을 살면서 과거보다 좀더 나은 삶을 살아가며 고귀해지고싶다.
