@@ -19,6 +19,7 @@
     color: $default-tint;
     font-family: $serif-secondary;
     letter-spacing: .5px;
+
   }
 
   &-title {
@@ -35,5 +36,57 @@
     border-top: .2rem solid $default-shade;
     display: block;
     width: 2rem;
+  }
+
+  &-type {
+      color: powderblue;
+      font-size: 18px;
+      font-family: source;
+      font-weight: 600;
+      margin-bottom: 10px;
+      margin-top: 13px;
+  }
+
+  &-info{
+    display: inline-block;
+
+    h1.catalogue-title {
+          color: grey-0;
+          display: block;
+          font-family: san-serif;
+          font-size: 32px;
+          font-weight: 700;
+          line-height: 1.5;
+          letter-spacing: -0.009em;
+          position: relative;
+
+          @media (max-width: break-small) {
+                font-size: 22px;
+          }
+      }
+
+      @media (max-width: break-medium) {
+          display: block;
+          width: 100%;
+      }
+
+    p.catalogue-sub {
+          font-size: 20px;
+          color: $grey-1;
+          line-height: 1.75;
+          padding-bottom: 24px;
+          margin-top: 13px;
+
+          @media (max-width: break-small) {
+              font-size: 16px;
+          }
+      }
+
+      p.catalogue-body {
+          font-size: 16px;
+          color: $grey-1;
+      }
+
+
   }
 }
