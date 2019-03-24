@@ -3,7 +3,7 @@
     border-bottom: 1px solid $grey-2;
     color: $default-color;
     display: inline-block;
-    padding: 2rem 0;
+    padding: 1rem 0;
 
     &:hover .catalogue-line,
     &:focus .catalogue-line {
@@ -54,7 +54,7 @@
           color: grey-0;
           display: block;
           font-family: san-serif;
-          font-size: 32px;
+          font-size: 29px;
           font-weight: 700;
           line-height: 1.5;
           letter-spacing: -0.009em;
@@ -71,7 +71,7 @@
       }
 
     p.catalogue-sub {
-          font-size: 20px;
+          font-size: 18px;
           color: $grey-1;
           line-height: 1.75;
           padding-bottom: 24px;
@@ -83,7 +83,7 @@
       }
 
       p.catalogue-body {
-          font-size: 16px;
+          font-size: 13px;
           color: $grey-1;
       }
 
