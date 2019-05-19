@@ -38,7 +38,7 @@ author: "Thousand"
 미니 해커톤(Mini hackathon)의 주제는 GIF파일을 목록화 하고 검색할 수 있는 WEB을 만드는 것이였다. 진행함에 필수적 요소들이 있었고, 선택적 요소들이 있어 다들 다양하게 2인1조로 그들만에 Webpage를 작성하기 시작했다. 나는 옵저버(Observer) 티켓으로 팀에 소속되지않고 개인으로 참가하여 다른 분들의 코드를 보면서 여러 대화를 통해 작성해 나아갔다. 사실 대부분의 이야기는 같이 간 현직 개발자 친구와 했다. 필수적 요소들을 빨리 구현하고 선택적 요소들을 추가해야하는 과정에서,API를 호출하여 적용시키고 그에 따른 function을 호출하여 사용했어야 했는데 Front-End의 F도 모르는 나로서는 친구에게 정말 많은 도움을 받았다. 그렇게 상대적으로 어려운 문제들을 검색과 질문을 통해 하나씩 해결해 나아갔다.
 <html>
   <div style="display:grid; grid-template-columns: 1fr 1fr;">
-    <div><img src="/assets/img/GDGview.jpg" width="300px"/></div>
+    <div><img src="/assets/img/GDGView.jpg" width="300px"/></div>
     <div><img src="/assets/img/GDGresult.jpg" width="300px"/></div>
   </div>
   <p style="margin-bottom: 0px;"><br></p>
