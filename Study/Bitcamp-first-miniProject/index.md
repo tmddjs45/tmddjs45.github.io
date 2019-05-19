@@ -62,7 +62,7 @@ order: 4
 <html>
   <div style="display:grid; grid-template-columns: 1fr 1fr;">
     <div><img src="img/O.png" width="380px" height="230"/></div>
-    <div><img src="img/Protocol.png" width="380px" height="230"/></div>
+    <div><img src="img/protocol.png" width="380px" height="230"/></div>
   </div>
 </html>
 그 결과, 답을 맞추면 점수를 count+=5; 하여 5점씩 증가시키고 시간초가 다 끝나면, 총 점수가 나오게 했다. 게임은 잘 실행이 되고 앞에서 말하지 못한 문제점들도 여러가지 있었다. 다중 Thread를 이용하여 프로그램을 구성하고, 시간초를 적용시켜 게임을 끝내는 방식을 로직을 짤 때도 문제가 있었다. 그래도 <u>검색과 질문을 통해 방법을 끝끝내 찾아가며 Local Game을 구현하는데 성공했다.</u>
